@@ -1,0 +1,19 @@
+{
+    "css.lint.float": "warning",
+    "scss.lint.float": "warning",
+    "editor.tabSize": 2,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#ff00ea",
+        "activityBar.foreground": "#000000",
+        "activityBar.inactiveForeground": "#000000",
+        "activityBarBadge.background": "#37cb34",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#ff00ea",
+        "titleBar.inactiveBackground": "#b52e3199",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveForeground": "#000000",
+        "statusBar.background": "#ff00ea",
+        "statusBarItem.hoverBackground": "#ff00ea",
+        "statusBar.foreground": "#000000"
+    },
+}
